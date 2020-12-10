@@ -116,7 +116,7 @@ content .textBox p {
   cursor: pointer;
   transition: 0.5s;
 }
-.thumb:hover{
+.thumb li:hover{
   transform:translateY(-15px);
 
 }
